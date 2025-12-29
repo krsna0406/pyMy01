@@ -1,4 +1,4 @@
-# editing to test merge from main to DoPy
+# editing
 
 def decorfun(func):
     def inner(name):
